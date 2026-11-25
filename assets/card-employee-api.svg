@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="180" viewBox="0 0 440 180" role="img" aria-label="Employee CRUD API: RESTful API for employee management built with Spring Boot.">
+  <rect x="0.75" y="0.75" width="438.5" height="178.5" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="5" height="178.5" rx="2.5" fill="#14B8A6"/>
+  <text x="24" y="44" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#E2E8F0">Employee CRUD API</text>
+  
+  <text x="24" y="82" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#94A3B8">RESTful API for employee management built with</text><text x="24" y="104" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#94A3B8">Spring Boot.</text>
+  <rect x="24" y="146" width="44" height="20" rx="10" fill="#14B8A6" fill-opacity="0.12" stroke="#14B8A6" stroke-opacity="0.45"/><text x="46" y="160" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5EEAD4">Java</text><rect x="73.6" y="146" width="95" height="20" rx="10" fill="#14B8A6" fill-opacity="0.12" stroke="#14B8A6" stroke-opacity="0.45"/><text x="121" y="160" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5EEAD4">Spring Boot</text><rect x="175.0" y="146" width="44" height="20" rx="10" fill="#14B8A6" fill-opacity="0.12" stroke="#14B8A6" stroke-opacity="0.45"/><text x="197" y="160" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5EEAD4">REST</text>
+</svg>

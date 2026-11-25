@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="José Arteaga, Software Engineer, Vancouver BC">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F172A"/><stop offset="1" stop-color="#111C33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#14B8A6"/><stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#14B8A6" stop-opacity="0.22"/><stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#334155" opacity="0.55"/>
+    </pattern>
+    <style>
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#dots)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+
+  <!-- code motif -->
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#94A3B8" opacity="0.8" text-anchor="start">
+    <text x="840" y="92"><tspan fill="#5EEAD4">const</tspan> engineer = {</text>
+    <text x="864" y="118">stack: [<tspan fill="#FDE68A">"React"</tspan>, <tspan fill="#FDE68A">"C#"</tspan>, <tspan fill="#FDE68A">"SQL"</tspan>],</text>
+    <text x="864" y="144">experience: <tspan fill="#FDBA74">13</tspan>,</text>
+    <text x="864" y="170">focus: <tspan fill="#FDE68A">"scalable products"</tspan>,</text>
+    <text x="840" y="196">};</text>
+  </g>
+
+  <text x="64" y="118" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#E2E8F0">José Arteaga</text>
+  <rect x="64" y="140" width="96" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="64" y="190" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#5EEAD4">Software Engineer<tspan class="cursor" fill="#14B8A6"> ▍</tspan></text>
+  <text x="64" y="228" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#94A3B8">React · TypeScript · C# / .NET · SQL Server · Java</text>
+  <text x="64" y="270" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#94A3B8">📍 Vancouver, BC   ·   13+ years building enterprise software</text>
+</svg>
